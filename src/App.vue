@@ -1,9 +1,9 @@
 <script setup>
-
+import AddTodo from './components/todo/AddTodo.vue';
 </script>
 
 <template>
-
+<AddTodo /> 
 </template>
 <style scoped>
 .logo {
